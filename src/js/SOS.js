@@ -31,7 +31,14 @@ define(['XML'], function(XML) {
 
             this._send(request, function(response) {
                 // Convert the SensorML description to a JSON object
-                var description = response.procedureDescription.description;
+                //modified by ptagliolato to intercept different syntax of json response (they are not standard)
+                var description = "";
+                if(response.procedureDescription.description){
+                    description = response.procedureDescription.description;
+                }
+                else{
+                    description = response.procedureDescription;
+                }
                 var json = XML.read(description, true);
                 callback(json.SensorML.member);
             }, errorHandler);
