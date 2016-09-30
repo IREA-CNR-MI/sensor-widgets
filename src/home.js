@@ -88,6 +88,15 @@ define('home', ["i18n", "SensorWidget", "highlight", "bootstrap"], function(i18n
         }
     };
 
+
+    /**
+     * @note Keep attention at time formats:
+     *    format 1: 2016-01-07T09:16:22+00:00 - not ISO compliant
+     *    format 2: 2016-01-07T09:16:22.000Z  - ISO 8601 format with time zone (Z stands for GMT) and thousandth of seconds
+     *    format 3: 2016-01-07T09:16:22Z      - ISO 8601 format with time zone (Z stands for GMT)
+     *   older versions of 52N JSON accept ONLY format 1 and 3, more recent SOS also accept format 2 with .
+     *
+     */
     now = now.toISOString().substring(0, 19) + "Z";
     three_hours_ago = three_hours_ago.toISOString().substring(0, 19) + "Z";
     a_day_ago = a_day_ago.toISOString().substring(0, 19) + "Z";
