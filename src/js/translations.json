@@ -2,274 +2,342 @@
   "langs": {
     "en": "English",
     "es": "Español",
-    "ca": "Català"
+    "ca": "Català",
+    "it": "Italiano"
   },
   "(no date)": {
     "es": "(sin fecha)",
-    "ca": "(sense data)"
+    "ca": "(sense data)",
+    "it": "(nessun dato)"
   },
   "No widget name specified": {
     "es": "No se ha especificado ningún nombre de widget",
-    "ca": "Cal especificar un nom de widget"
+    "ca": "Cal especificar un nom de widget",
+    "it": "Non è stato specificato alcun nome del widget"
   },
   "Widget '{name}' cannot be found": {
     "es": "No se ha encontrado el widget de nombre '{name}'",
-    "ca": "No s'ha trobat cap widget anomenat '{name}'"
+    "ca": "No s'ha trobat cap widget anomenat '{name}'",
+    "it": "Il widjet '{name}' non può essere trovato"
   },
   "The '{name}' widget is missing some mandatory parameters: ": {
     "es": "Faltan algunos parámetros obligatorios para el widget '{name}': ",
-    "ca": "Cal afegir els següents paràmetres obligatoris al widget '{name}': "
+    "ca": "Cal afegir els següents paràmetres obligatoris al widget '{name}': ",
+    "it": "Nel widget '{name}' alcuni paramtri sono stati omessi:"
   },
   "Loading...": {
     "es": "Cargando...",
-    "ca": "Carregant..."
+    "ca": "Carregant...",
+    "it": "Caricamento..."
   },
   "deg": {
     "es": "º",
-    "ca": "º"
+    "ca": "º",
+    "it": "º"
   },
   "Request time": {
     "es": "Petición el",
-    "ca": "Petició el"
+    "ca": "Petició el",
+    "it": "Richiesto il"
   },
   "Response time": {
     "es": "Respuesta el",
-    "ca": "Resposta el"
+    "ca": "Resposta el",
+    "it": "Risposta il"
   },
   "(no data)": {
     "es": "(sin datos)",
-    "ca": "(sense dades)"
+    "ca": "(sense dades)",
+    "it": "(senza dato)"
   },
   "Result time": {
     "es": "Resultado del",
-    "ca": "Resultat del"
+    "ca": "Resultat del",
+    "it": "Risultato il"
   },
   "Cel": {
     "es": "ºC",
-    "ca": "ºC"
+    "ca": "ºC",
+    "it": "ºC"
   },
   "Results": {
     "es": "Resultados",
-    "ca": "Resultats"
+    "ca": "Resultats",
+    "it": "Risultato"
   },
   "Time": {
     "es": "Hora",
-    "ca": "Hora"
+    "ca": "Hora",
+    "it": "Ora"
   },
   "Value": {
     "es": "Valor",
-    "ca": "Valor"
+    "ca": "Valor",
+    "it": "Valore"
   },
   "Unit": {
     "es": "Unidad",
-    "ca": "Unitat"
+    "ca": "Unitat",
+    "it": "Unitò di misura"
   },
   "{name} Widget Configuration": {
     "es": "Configuración de {name}",
-    "ca": "Configuració de {name}"
+    "ca": "Configuració de {name}",
+    "it": "Configurazione del widget '{name}'"
   },
   "Mandatory inputs": {
     "es": "Parámetros obligatorios",
-    "ca": "Paràmetres obligatoris"
+    "ca": "Paràmetres obligatoris",
+    "it": "Parametri mandatori"
   },
   "Compass": {
     "es": "Rumbo",
-    "ca": "Rumb"
+    "ca": "Rumb",
+    "it": "Bussola"
   },
   "Gauge": {
     "es": "Manómetro",
-    "ca": "Manòmetre"
+    "ca": "Manòmetre",
+    "it": "Manometro"
   },
   "Jqgrid": {
     "es": "Tabla JQuery",
-    "ca": "Taula JQuery"
+    "ca": "Taula JQuery",
+    "it": "Jqgrid"
   },
   "Map": {
     "es": "Mapa",
-    "ca": "Mapa"
+    "ca": "Mapa",
+    "it": "Mappa"
   },
   "Panel": {
     "es": "Panel",
-    "ca": "Panell"
+    "ca": "Panell",
+    "it": "Pannello"
   },
   "Progressbar": {
     "es": "Barra",
-    "ca": "Barra"
+    "ca": "Barra",
+    "it": "Barra di progressione"
   },
   "Table": {
     "es": "Tabla",
-    "ca": "Taula"
+    "ca": "Taula",
+    "it": "Tabella"
   },
   "Thermometer": {
     "es": "Termómetro",
-    "ca": "Termòmetre"
+    "ca": "Termòmetre",
+    "it": "Termometro"
   },
   "Timechart": {
     "es": "Serie tiempo",
-    "ca": "Sèrie temps"
+    "ca": "Sèrie temps",
+    "it": "Serie temporale"
   },
   "Windrose": {
     "es": "Rosa vientos",
-    "ca": "Rosa vents"
+    "ca": "Rosa vents",
+    "it": "Rosa del vento"
   },
   "Select a Service...": {
     "es": "Seleccione un servicio...",
-    "ca": "Sel·leccioneu un servei..."
+    "ca": "Sel·leccioneu un servei...",
+    "it": "Seleziona un servizio..."
   },
   "Select an Offering...": {
     "es": "Seleccione un offering...",
-    "ca": "Sel·leccioneu un offering..."
+    "ca": "Sel·leccioneu un offering...",
+    "it": "Seleziona una offering..."
   },
   "(multiselect)": {
     "es": "(selección múltiple)",
-    "ca": "(selecció múltiple)"
+    "ca": "(selecció múltiple)",
+    "it": "(selezione multipla)"
   },
   "Service": {
     "es": "Servicio",
-    "ca": "Servei"
+    "ca": "Servei",
+    "it": "Servizio"
   },
   "Property": {
     "es": "Propiedad",
-    "ca": "Propietat"
+    "ca": "Propietat",
+    "it": "Proprietà"
   },
   "Properties": {
     "es": "Propiedades",
-    "ca": "Propietats"
+    "ca": "Propietats",
+    "it": "Proprietà"
   },
   "Refresh Interval": {
     "es": "Intervalo de refresco",
-    "ca": "Intèrval de refresc"
+    "ca": "Intèrval de refresc",
+    "it": "Intervallo di aggiornamento"
   },
   "Time Range": {
     "es": "Rango de tiempo",
-    "ca": "Rang de temps"
+    "ca": "Rang de temps",
+    "it": "Intervallo di tempo"
   },
   "MMM D, YYYY H:mm": {
     "es": "D MMM YYYY H:mm",
-    "ca": "D MMM YYYY H:mm"
+    "ca": "D MMM YYYY H:mm",
+    "it": "D MMM YYYY H:mm"
   },
   "Custom Range": {
     "es": "Rango predefinido",
-    "ca": "Rang predefinit"
+    "ca": "Rang predefinit",
+    "it": "Intervallo preferito"
   },
   "Today": {
     "es": "Hoy",
-    "ca": "Avui"
+    "ca": "Avui",
+    "it": "Oggi"
   },
   "Last hour": {
     "es": "La última hora",
-    "ca": "La última hora"
+    "ca": "La última hora",
+    "it": "Ultima ora"
   },
   "Last {n} hours": {
     "es": "Las últimas {n} horas",
-    "ca": "Les últimes {n} hores"
+    "ca": "Les últimes {n} hores",
+    "it": "Le ultime {n} ore"
   },
   "From": {
     "es": "De",
-    "ca": "De"
+    "ca": "De",
+    "it": "Da"
   },
   "To": {
     "es": "A",
-    "ca": "A"
+    "ca": "A",
+    "it": "A"
   },
   "Apply": {
     "es": "Aplicar",
-    "ca": "Aplica"
+    "ca": "Aplica",
+    "it": "Applicare"
   },
   "Cancel": {
     "es": "Cancelar",
-    "ca": "Cancel·la"
+    "ca": "Cancel·la",
+    "it": "Cancellare"
   },
   "W": {
     "es": "S",
-    "ca": "S"
+    "ca": "S",
+    "it": "O"
   },
   "Optional inputs": {
     "es": "Parámetros opcionales",
-    "ca": "Paràmetres opcionals"
+    "ca": "Paràmetres opcionals",
+    "it": "Parametri facoltativi"
   },
   "Title": {
     "es": "Título",
-    "ca": "Títol"
+    "ca": "Títol",
+    "it": "Titolo"
   },
   "Footnote": {
     "es": "Nota al pie",
-    "ca": "Nota al peu"
+    "ca": "Nota al peu",
+    "it": "Nota a piè di pagina"
   },
   "Custom Css Url": {
     "es": "URL del CSS personalizado",
-    "ca": "URL del CSS personalitzat"
+    "ca": "URL del CSS personalitzat",
+    "it": "URL del CSS personalizzato"
   },
   "Max Initial Zoom": {
     "es": "Zoom Inicial Máximo",
-    "ca": "Zoom Inicial Màxim"
+    "ca": "Zoom Inicial Màxim",
+    "it": "Massimo zoom iniziale"
   },
   "Base Layer": {
     "es": "Mapa de Base",
-    "ca": "Mapa de Base"
+    "ca": "Mapa de Base",
+    "it": "Mappa di base"
   },
   "Widget dimensions": {
     "es": "Tamaño del widget",
-    "ca": "Mides del widget"
+    "ca": "Mides del widget",
+    "it": "Dimensioni del Widget"
   },
   "Initial Size": {
     "es": "Tamaño inicial",
-    "ca": "Mida inicial"
+    "ca": "Mida inicial",
+    "it": "Dimensione iniziale"
   },
   "Create Widget": {
     "es": "Crear Widget",
-    "ca": "Crear Widget"
+    "ca": "Crear Widget",
+    "it": "Creare il Widget"
   },
   "{name} Configuration Parameters": {
     "es": "Parámetros de {name}",
-    "ca": "Paràmetres de {name}"
+    "ca": "Paràmetres de {name}",
+    "it": "Configurazione del parametro {name}"
   },
   "jqGrid Example": {
     "es": "Ejemplo de tabla JQuery",
-    "ca": "Exemple de taula JQuery"
+    "ca": "Exemple de taula JQuery",
+    "it": "Esempio della jqGrid"
   },
   "Last observations": {
     "es": "Observaciones más recientes",
-    "ca": "Darreres observacions"
+    "ca": "Darreres observacions",
+    "it": "Ultima osservazione"
   },
   "Data Table - last 3 hours": {
     "es": "Tabla de datos - últimas 3 horas",
-    "ca": "Taula de dades - darreres 3 hores"
+    "ca": "Taula de dades - darreres 3 hores",
+    "it": "Tabella delle date - ultime 3 ore"
   },
   "Sirena Windrose": {
     "es": "Rosa de los Vientos Sirena",
-    "ca": "Rosa dels Vents Sirena"
+    "ca": "Rosa dels Vents Sirena",
+    "it": "Rosa dei venti Sirena"
   },
   "Last 3 hours of wind observations": {
     "es": "Últimas 3 horas de observaciones del viento",
-    "ca": "Darreres 3 hores d'observacions del vent"
+    "ca": "Darreres 3 hores d'observacions del vent",
+    "it": "Osservazioni del vento relative alle ultime 3 ore"
   },
   "Code": {
     "es": "Código",
-    "ca": "Codi"
+    "ca": "Codi",
+    "it": "Codice"
   },
   "Embed": {
     "es": "Incrustar",
-    "ca": "Incrusta"
+    "ca": "Incrusta",
+    "it": "Incorporato"
   },
   "Link": {
     "es": "Enlazar",
-    "ca": "Enllaça"
+    "ca": "Enllaça",
+    "it": "Collegamento"
   },
   "Mandatory": {
     "es": "Obligatorios",
-    "ca": "Obligatoris"
+    "ca": "Obligatoris",
+    "it": "Obbligatorio"
   },
   "Optional": {
     "es": "Opcionales",
-    "ca": "Opcionals"
+    "ca": "Opcionals",
+    "it": "Facoltativo"
   },
   "Suggested Sizes": {
     "es": "Tamaños recomendados",
-    "ca": "Mides recomanades"
+    "ca": "Mides recomanades",
+    "it": "Dimensioni raccomandate"
   },
   "A sample footnote for {name} widget": {
     "es": "Nota al pie de ejemplo en el widget {name}",
-    "ca": "Nota al peu d'exemple al widget {name}"
+    "ca": "Nota al peu d'exemple al widget {name}",
+    "it": "Nota a piè di pagina per il widget {name}"
   }
 }
